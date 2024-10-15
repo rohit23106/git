@@ -1,2 +1,6 @@
 line 1:added by master branch
+<<<<<<< HEAD
 line 2: modified by master branch
+=======
+line 3: added by feature branch
+>>>>>>> feature
